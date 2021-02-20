@@ -1,2 +1,5 @@
 # hello-world
-My First Repo
+
+Hello all! 
+
+This is a test to familiarize myself with git.
